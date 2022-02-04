@@ -23,7 +23,7 @@
   height: 32px;
   position: absolute;
   top: 30px;
-  left: 64px;;
+  left: 64px;
   z-index: 2;
 }
 .header__title{
@@ -157,7 +157,7 @@ padding-top: 20px;
 /*main__feynman*/
 .feynman{
   height: 890px;
-  background-color:#f2f2f2 ;
+  background-color:#f2f2f2;
   position: relative;
   z-index: -2;
 }
