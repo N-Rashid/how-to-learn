@@ -1,3 +1,4 @@
 .khan__book-pic{
-  width: 620px;
+  min-width: 620px;
+  margin-right: 48px;
 }
